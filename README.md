@@ -1,4 +1,4 @@
-# kod_askstanim
+# kod_asistanim
 # proje yazarı:Erdem Erol
 # projenin adı:Kod-Asistanı v0.1
 ## projenin Amacı:kullanıcılara günlük hayatta yardımcı olmaktır 
